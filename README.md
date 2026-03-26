@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kofi Danso
 ===================================================================================================================================
 
-Cloud & DevOps Engineer
+Cloud , DevOps Engineer & FullStack Developer
 -----------------------
 
 I design and manage secure cloud applications on AWS, using Docker, CI/CD, and observability tools like Prometheus, Grafana, and OpenTelemetry. I focus on reliable service communication, automation, and efficient system monitoring.
