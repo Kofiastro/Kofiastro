@@ -7,7 +7,7 @@ Cloud , DevOps Engineer & FullStack Developer
 I design and manage secure cloud applications on AWS, using Docker, CI/CD, and observability tools like Prometheus, Grafana, and OpenTelemetry. I focus on reliable service communication, automation, and efficient system monitoring.
 
 * 🌍  I'm based in Ghana
-* 🖥️  See my portfolio at [Kofi Danso]((http://kofi-danso.vercel.app/))
+* 🖥️  See my portfolio at [Kofi Danso](http://kofi-danso.vercel.app/)
 * ✉️  You can contact me at [astrokofi@gmail.com](mailto:astrokofi@gmail.com)
 * 🧠  I'm currently learning Currently building and securing cloud-native applications by implementing VPC networking, access controls, and multi-tier architectures, with a focus on least-privilege security and service isolation.
 
