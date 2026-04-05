@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cloud , DevOps Engineer & FullStack Developer
 -----------------------
 
-I design and manage secure cloud applications on AWS, leveraging Docker, CI/CD pipelines, and observability tools such as Prometheus, Grafana, and OpenTelemetry. I also build fullstack applications, developing scalable backend services and intuitive frontend interfaces. My focus is on reliable service communication, automation, and efficient system monitoring.
+I design and manage secure cloud applications on AWS, leveraging Docker,Terraform, CI/CD pipelines, and observability tools such as Prometheus, Grafana, and OpenTelemetry. I also build fullstack applications, developing scalable backend services and intuitive frontend interfaces. My focus is on reliable service communication, automation, and efficient system monitoring.
 
 * 🌍  I'm based in Ghana
 * 🖥️  See my portfolio at [Kofi Danso](http://kofi-danso.vercel.app/)
